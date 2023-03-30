@@ -11,7 +11,7 @@
    10. Challenge: Domain dependency of ML models
    11. Challenge: Low-resource languages
    12. Challenge: Lack of research and development
-
+   
 ## Morphological Analysis
   1. Token => lemma + part of speech + grammatical features
   2. cats => cat+N+plur
